@@ -1,9 +1,11 @@
 ## LoremIpsumBlocks Module for FramerJS
 
+Wireframe style lorem ipsum for your prototype
+
 <img src="readme.png" width="100%">
 
-#### Use:
-Place `LoremIpsumBlocks.coffee` to the folder named "module" in your project.
+#### Usage:
+Place `LoremIpsumBlocks.coffee` into the `modules` folder of your project.
 
 
 ``` coffeescript
@@ -16,6 +18,8 @@ paragraphA = new Blocks
 	width: 600
 	wordCount: 40
 ```
+
+<a href="#"><img width="160px" src='fm-badge@2x.png'></a>
 
 #### Options:
 

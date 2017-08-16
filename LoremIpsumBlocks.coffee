@@ -23,10 +23,10 @@ class exports.Blocks extends Layer
         super options
         
         options.wordCount ?= 24
-        options.wordSpacing ?= 12
-        options.letterHeight ?= 24
-        options.letterWidth ?= 12
-        options.lineSpacing ?= 12
+        options.wordSpacing ?= 6
+        options.letterHeight ?= 12
+        options.letterWidth ?= 6
+        options.lineSpacing ?= 6
         options.color ?= "silver"
 
         linesCreated = 0

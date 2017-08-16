@@ -1,0 +1,11 @@
+{
+    "name": "Lorem Ipsum Blocks",
+    "description": "Wireframe style lorem ipsum for your prototype",
+    "author": "rayps",
+
+    "require": "{Blocks} = require \"LoremIpsumBlocks\"",
+    "install": "LoremIpsumBlocks.coffee",
+    "example": "snippet.coffee",
+
+    "thumb": "thumb@2x.png"
+}
